@@ -8,7 +8,7 @@ These are the prerequisites you need to be able to run these bots:
 - The discord client ID's of your bots and yourself (https://discordia.me/developer-mode, after enabling developer mode simply right click on yourself in the memberlist and select 'Copy ID')
 - A https://cleverbot.io/ account. After making one you need a key and username for your cleverbot, which can be found here https://cleverbot.io/keys. You can use the same account for both bots.
 
-Before you start the bots you have to edit the variables at the start of bot1.py and bot2.py and add the information you've acquired in the previous steps. You can use the same cleverbot username and key for both files, but you need two separate bot tokens. Lastly you need to pick a name for the destination text channel or just make a new text channel in your server with the name 'bikini_bottom'.
+Before you start the bots you have to edit the variables at the start of bot1.py and bot2.py and add the information you've acquired in the previous steps. You can use the same cleverbot username and key for both files, but you need two separate bot tokens. Lastly, you need to pick a name for the destination text channel or just make a new text channel in your server with the name 'bikini_bottom'.
 For example:
 
 Bot1.py
