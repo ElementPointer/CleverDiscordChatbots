@@ -2,7 +2,6 @@ import asyncio
 import discord
 import aiohttp
 from discord.ext import commands
-import time
 import requests
 import json
 
