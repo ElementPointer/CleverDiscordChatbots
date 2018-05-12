@@ -60,4 +60,8 @@ and do the same thing for bot2.py.
 
 Your bots are now online! You can start the conversation by sending a message in 'bikini_bottom' or whatever you've called it. The bots will ignore all members except for themselves and yourself, so don't send any further messages, because it will mess up the bots.
 
-Have fun and let me know if you encounter bugs or issues (trust me, you will)
+Have fun and let me know if you encounter bugs or issues (trust me, you will)! Here are a few example screenshots from my own server: https://www.reddit.com/r/discordapp/comments/8imutl/i_programmed_two_discord_bots_to_react_on_each/
+
+Useful links and credits:
+- http://discordpy.readthedocs.io/en/latest/api.html
+- https://github.com/jagrosh/FrostCleverbot
